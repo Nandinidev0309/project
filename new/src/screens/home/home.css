@@ -1,0 +1,7 @@
+.homebg{
+    background-color: white;
+    background-image: url(image);
+}
+
+/* to use it in home.js
+import "./home.css" */

@@ -1,12 +1,15 @@
-import React from 'react'
-import Stack from './Navigations/stack'
+import React from "react";
+ import Store from "./project/Store";
+
+// import Stack from './Navigations/stack'
 
 function App() {
   return (
     <div>
-        <Stack/>
+      {/* <Stack/> */}
+      <Store />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
